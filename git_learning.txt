@@ -1,1 +1,5 @@
-hello today i am learning some basic linux command
+hello today i am learning some basic unix command
+
+today I am learning how to push a update test
+
+
